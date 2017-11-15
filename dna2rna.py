@@ -1,3 +1,7 @@
+#Jonathan Kelly
+#Rosalind projects
+#Project: Transcribing DNA into RNA
+
 file = open('datasets/rosalind_rna.txt','r')
 dna = file.read()
 rna = ""
